@@ -5,7 +5,7 @@
 
 <!-- Profile Views -->
 <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=AjayPieris&label=Profile%20views&color=ce9927&style=flat" alt="AjayPieris" />
+    <img src="https://komarev.com/ghpvc/?username=viyashan&label=Profile%20views&color=ce9927&style=flat" alt="Viyashan" />
 </p>
 
 <!-- Anime Header GIF -->
@@ -38,7 +38,7 @@ A J A Y <img src="https://i.pinimg.com/originals/3f/7e/4e/3f7e4eff7c96e9fe4b8b4b
 <!-- Short Bio -->
 <div align="center">
 <br>Crafting delightful experiences since 20XX...<br>🔭 I’m currently building <strong>CeyloneConnect</strong>
-🌱 Learning <strong>Python, Java, Power BI</strong>.
+🌱 Learning <strong>MERN stack,Javascript,Python</strong>.
 </div>
 
 <!-- Tech Stack (Added to match the busy style) -->
@@ -48,11 +48,11 @@ A J A Y <img src="https://i.pinimg.com/originals/3f/7e/4e/3f7e4eff7c96e9fe4b8b4b
   <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
   <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/javascript-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Typescript-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"/>
   <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/flask-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Django-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white"/>
   <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/>
 </p>
 
@@ -62,7 +62,7 @@ A J A Y <img src="https://i.pinimg.com/originals/3f/7e/4e/3f7e4eff7c96e9fe4b8b4b
     <h2 align="center"> 🃏 Profile Summary </h2>
       <br/>
         <p align="center">
-          <a href="https://github.com/AjayPieris/">
+          <a href="https://github.com/viyash-24/">
             <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AjayPieris&theme=aura_dark" />
             <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AjayPieris&theme=aura_dark" />
             <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AjayPieris&theme=aura_dark" />
