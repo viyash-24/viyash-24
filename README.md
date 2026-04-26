@@ -87,30 +87,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=viyash-24&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=70a5fd&point=ff6b6b&area=true&hide_border=true" />
 </div>
 
-<!-- Gitanimals -->
-<div align="center">
-  <h2>🐾 My Gitanimals</h2>
-</div>
-<table align="center">
-  <tr>
-    <td align="center" width="65%">
-      <a href="https://github.com/git-goods/gitanimals">
-        <img src="https://render.gitanimals.org/lines/viyash-24?pet-id=1" width="100%" />
-      </a>
-    </td>
-    <td align="center" width="35%">
-      <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=gruvbox" />
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <a href="https://github.com/git-goods/gitanimals">
-        <img src="https://render.gitanimals.org/farms/viyash-24" width="80%" />
-      </a>
-    </td>
-  </tr>
-</table>
-
 <!-- Footer Badges -->
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=viyash-24&label=Profile%20views&color=ce9927&style=flat" />
