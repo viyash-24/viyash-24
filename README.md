@@ -22,7 +22,7 @@
 
 <!-- Social Links -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/your-linkedin-slug/" target="_blank">
+  <a href="https://www.linkedin.com/in/viyash24/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="40" width="50" />
   </a>
   <a href="https://web.facebook.com/" target="_blank">
@@ -31,15 +31,13 @@
   <a href="https://www.instagram.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="40" width="50" />
   </a>
-  <a href="https://www.youtube.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" height="40" width="50" />
-  </a>
+ 
 </p>
 
 <!-- Short Bio -->
 <div align="center">
 <br>Crafting impactful software solutions 🚀<br>
-🔭 I’m currently building <strong>CeyloneConnect</strong><br>
+🔭 I’m currently building <strong>NewsChannel</strong><br>
 🌱 I am a <strong>Full-Stack Developer and Software Engineering student, currently learning JavaScript, TypeScript, and Python</strong>
 </div>
 
