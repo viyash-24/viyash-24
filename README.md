@@ -87,12 +87,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=viyash-24&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=70a5fd&point=ff6b6b&area=true&hide_border=true" />
 </div>
 
-<!-- Snake Animation -->
-<div align="center">
-  <h2>🐍 Snake eating my contributions</h2>
-  <img src="https://raw.githubusercontent.com/viyash-24/viyash-24/output/snake.svg" alt="Snake animation" />
-</div>
-
 <!-- Gitanimals -->
 <div align="center">
   <h2>🐾 My Gitanimals</h2>
