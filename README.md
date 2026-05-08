@@ -116,37 +116,6 @@
 
 </div>
 
----
-
-# 🚀 Featured Projects
-
-## 🚗 Smart Park – Smart Parking Management System
-
-- Developed a Full-Stack Smart Parking System using the MERN stack.
-- Implemented secure authentication and role-based access control.
-- Added real-time parking slot tracking and automated slot allocation.
-- Integrated payment systems, email notifications, and vehicle registration.
-- Deployed frontend and backend services using AWS EC2, S3, and CloudFront.
-
----
-
-## 🎨 AI Text-to-Image SAAS App
-
-- Built an AI-powered text-to-image generation platform using MERN stack.
-- Integrated ClipDrop API for AI image generation.
-- Developed secure credit-based payment functionality.
-- Designed responsive UI with optimized backend performance.
-
----
-
-## 🛒 QuickCart – Full-Stack E-Commerce Platform
-
-- Engineered a scalable e-commerce application with role-based dashboards.
-- Implemented secure authentication, cart, order processing, and payments.
-- Integrated Stripe, Clerk, Cloudinary, and Inngest services.
-- Built with Next.js, Tailwind CSS, Express.js, and MongoDB.
-
----
 
 # 📊 GitHub Analytics
 
@@ -183,15 +152,6 @@
 
 ---
 
-<!-- Random Quote -->
-<h3 align="center">✍️ Random Dev Quote</h3>
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
-</p>
-
----
-
 <!-- Contribution Graph -->
 <div align="center">
   <h2>📈 Contribution Graph</h2>
@@ -199,15 +159,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=viyash-24&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=70a5fd&point=ff6b6b&area=true&hide_border=true" />
 
 </div>
-
----
-
-# 🏆 Certifications
-
-- Crash Course on Python
-- AWS ECS
-- Introduction to AI
-- Crash Course on AWS
 
 ---
 
