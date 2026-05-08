@@ -21,7 +21,7 @@
 {
   "name"      : "Viyashan Sathiyamoorthi",
   "role"      : "Software Engineering Undergraduate",
-  "location"  : "Sri Lanka 🇱🇰",
+  "location"  : "Sri Lanka",
   "focus"     : [
                     "Full-Stack Development",
                     "Cloud Deployment",
@@ -29,7 +29,7 @@
                     "Software Architecture"
                   ],
   "currently_learning" : [
-                            "AI Integration",
+                            "Typescript",
                             "Microservices",
                             "DevOps & Kubernetes"
                           ],
