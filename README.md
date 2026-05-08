@@ -162,15 +162,6 @@
 
 ---
 
-# 🌱 Currently Learning
-
-- AI Integration in Web Applications
-- Microservices Architecture
-- Kubernetes & Container Orchestration
-- Cloud Infrastructure
-
----
-
 # 🤝 Let's Connect
 
 <div align="center">
@@ -179,19 +170,6 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://viyash24.vercel.app/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:viyashansathiyamoorthi@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/viyash-24)
-
-</div>
-
----
-
-<!-- Footer Badges -->
-<div align="center">
-
-  <img src="https://komarev.com/ghpvc/?username=viyash-24&label=Profile%20views&color=ce9927&style=flat" />
-  
-  <img src="https://img.shields.io/github/followers/viyash-24?label=Followers&style=social" />
-  
-  <img src="https://img.shields.io/github/stars/viyash-24?label=Total%20Stars&style=social"/>
 
 </div>
 
