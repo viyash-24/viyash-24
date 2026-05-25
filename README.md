@@ -1,6 +1,6 @@
 <div align="center">
 
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="40" /> Hi, I'm Viyashan Sathiyamoorthi
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="40" /> Hi, I'm Viyashan 
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=34&pause=1000&color=0EA5E9&center=true&vCenter=true&width=750&lines=Software+Engineer;Full-Stack+Developer;MERN+Stack+Developer;Cloud+%26+AI+Enthusiast" alt="Typing SVG" />
 
