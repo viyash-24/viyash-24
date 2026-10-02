@@ -33,7 +33,9 @@
                             "Microservices",
                             "DevOps & Kubernetes"
                           ],
-  "open_to"   : "Assosiate, Freelancing & Collaborations"
+  "open_to"   : "Associate Software Engineer Roles",
+                "Freelancing",
+                "Collaborations"
 }
 ```
 
