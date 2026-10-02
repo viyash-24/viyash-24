@@ -33,7 +33,7 @@
                             "Microservices",
                             "DevOps & Kubernetes"
                           ],
-  "open_to"   : "Internships, Freelancing & Collaborations"
+  "open_to"   : "Assosiate, Freelancing & Collaborations"
 }
 ```
 
